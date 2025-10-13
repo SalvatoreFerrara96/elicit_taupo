@@ -4,7 +4,7 @@ datarepo = 'local'
 # datarepo = 'github'
 
 # Github repository for answers, used only when datarepo='local' or 'local_github'
-# RepositoryData = ''
+ RepositoryData = 'elicitation_taupo_answers'
 
 # Parameters used only when datarepo='local' or 'local_github'
 # user = ''
