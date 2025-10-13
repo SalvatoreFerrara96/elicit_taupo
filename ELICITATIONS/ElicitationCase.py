@@ -1,1 +1,1 @@
-wrk_dir = 'Cotopaxi'
+wrk_dir = 'elicitation_taupo_answers'
