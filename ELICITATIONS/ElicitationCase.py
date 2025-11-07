@@ -1,1 +1,1 @@
-wrk_dir = 'elicitation_taupo_answers'
+wrk_dir = 'SalvatoreFerrara96/elicit_taupo'
